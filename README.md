@@ -2,13 +2,13 @@
 Customer behavior analysis using Python, SQL, and data visualization.
 Customer Behavior Analysis – E-commerce Dataset
 
-**Project Overview**
+## Project Overview
 
 This project analyzes customer behavior using an e-commerce dataset to understand the factors that influence customer spending. The analysis focuses on identifying relationships between customer engagement metrics and yearly purchase amounts.
 
 Using Python, SQL, and data visualization techniques, the project explores how variables such as app usage, website activity, and membership length impact customer spending patterns.
 
-**Objectives**
+## Objectives
 
 The main goals of this project were to:
 
@@ -24,7 +24,7 @@ The main goals of this project were to:
 
 * Perform SQL queries to analyze the dataset
 
-**Dataset**
+## Dataset
 
 The dataset used in this project was sourced from
 Kaggle.
@@ -39,7 +39,7 @@ It contains anonymized customer activity data including:
 
 * Customer spending per year
 
-**Tools & Technologies**
+## Tools & Technologies
 
 This project was completed using:
 
@@ -57,7 +57,7 @@ This project was completed using:
 
 * Jupyter Notebook
 
-**Project Workflow**
+## Project Workflow
 1. Data Cleaning
 
 The dataset was cleaned by,removing duplicate records,checking for missing values,cleaning column names,verifying numeric data types and exporting the cleaned dataset for analysis
@@ -100,7 +100,20 @@ Example query:
 
 SQL was used to analyze, average spending, highest spending customers, engagement metrics
 
-**Key Insights**
+6.Tableau Dashboard
+
+https://public.tableau.com/app/profile/ruba8664/viz/CustomerBehaviourDashboard_17738657871580/CustomerBehaviorSpendingAnalysisDashboard
+
+This project includes an interactive Tableau dashboard analyzing customer behavior and spending patterns.
+
+![Membership Analysis Tableau](https://github.com/user-attachments/assets/8ec40283-930f-495d-ac26-8454311ff7b8)
+
+Dashboard Features:
+* Scatter plots showing relationships between user behavior and spending
+* Trend lines to highlight correlations
+* Multi-variable analysis using color (membership length) and size (website usage)
+
+## Key Insights
 
 The analysis revealed several insights:
 
@@ -111,3 +124,10 @@ The analysis revealed several insights:
 * Website usage shows a weaker correlation with spending compared to mobile app engagement.
 
 These findings suggest that improving customer retention and mobile engagement could increase overall revenue.
+
+
+
+
+
+
+
